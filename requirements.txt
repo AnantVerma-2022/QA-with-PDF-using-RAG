@@ -1,0 +1,50 @@
+# Numerical computations
+numpy
+
+langchain
+langchain-core
+langchain-community
+
+langchain-openai
+langchain-groq
+langchain-google-genai
+google-generativeai
+
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+torch
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# Streamlit for UI
+streamlit
+
+# Pydantic for data validation
+pydantic
+pydantic[email]
+
+# for display chain outputs in a more readable format
+grandalf
+
+# for pdf document
+pypdf
+pymupdf
+PyPDF2
+
+# Vectordb
+faiss-cpu
+
+# Mis
+unstructured
+python-docx
+
+# Natural Language Toolkit
+nltk
